@@ -1,7 +1,7 @@
 # php-classifier
 Naive Bayes Classifier accessible via HTTP requests
 
-## Linux commands
+## Linux commands to start the php web server in the php-classifier directory
 
 git clone https://github.com/richard512/php-classifier.git
 
